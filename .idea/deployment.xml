@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="192.168.170.148" remoteFilesAllowedToDisappearOnAutoupload="false">
+  <component name="PublishConfigData" autoUpload="Always" serverName="192.168.170.148" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
     <serverData>
       <paths name="192.168.170.148">
         <serverdata>
           <mappings>
-            <mapping deploy="/tmp/goproject" local="$PROJECT_DIR$" web="/" />
+            <mapping deploy="/tmp/goproject/prometheus" local="$PROJECT_DIR$" web="/" />
           </mappings>
         </serverdata>
       </paths>
